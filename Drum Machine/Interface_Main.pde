@@ -1,10 +1,4 @@
-/*************************************************************
- MMT: Programming Digital Systems
- **************************************************************
- * 
- * Assignment 2: Interactive Project - Main
- * 
- **************************************************************
+ /**************************************************************
  * 808-like 16-step drum sequencer with programmable Lissajous figure output
  * Formatted messages are sent to Arduino over serial comms.
  * These determine the waveforms created by the Ardunio.
@@ -24,7 +18,7 @@
  * 
  * N.B. - Minim and ControlP5 must be downloaded and installed for this project to run
  * 
- * Brian Fallon - fallonb1@tcd.ie
+ * Brian Fallon - fallonb16@gmail.com
  **************************************************************/
 
 // Import the necessary libraries
