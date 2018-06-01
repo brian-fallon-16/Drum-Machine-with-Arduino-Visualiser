@@ -1,16 +1,10 @@
 /**************************************************************
- MMT: Programming Digital Systems
- **************************************************************
- * 
- * Assignment 2: Interactive Project - Arduino sketch (for DUE)
- * 
- **************************************************************
  *
  * This sketch stores two wavetables and their properties.
  * Both contain 4096 samples at 12-bit resolution.
  * The first is a sine wave, the second a triangle wave.
  * 
- * Brian Fallon - fallonb1@tcd.ie
+ * Brian Fallon - fallonb16@gmail.com
  * 
  * Wavetables generated at:
  * http://www.daycounter.com/Calculators/Sine-Generator-Calculator.phtml
